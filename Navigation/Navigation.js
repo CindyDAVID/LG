@@ -11,7 +11,7 @@ import SetUp from '../Screens/Game set up/SetUp'
 
 const RootStack = createStackNavigator()
 
-
+//test
 export default function MyStack() {
 //     return(
 //         <Stack.Navigator>
