@@ -3,6 +3,7 @@ import { View, TextInput, Button, StyleSheet } from 'react-native';
 import { Navigation } from "react-native-navigation";
 import * as RootNavigation from '../../Navigation/RootNavigation'
 
+//test 
 class MyClass extends Component {
 
   constructor(props){
